@@ -138,3 +138,16 @@ body{
 .post_headerDescription{
     margin-bottom:20px;
 }
+
+
+.widgets_input{
+    display: flex;
+    align-items:center;
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top:10px;
+    margin-left: 20px;
+    
+
+}
