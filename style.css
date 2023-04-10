@@ -72,10 +72,11 @@ body{
     font-size:30px;
 
 }
+/*
 .feed{
     flex:0.5;
-    border-right:1px solid black;
-}
+    border-right:1px solid black;*/
+
 .feed_header{
     position:sticky;
     top :0;
@@ -88,4 +89,19 @@ body{
 .feed_header h2{
     font-size:20px;
     font-weight:800px;
+}
+
+.tweetbox_input1 img{
+    width:800px;
+    height: 300px;
+}
+
+.tweetbox_input2 img{
+  border-radius:100%
+   
+}
+.post_avatar img{
+    border-radius:100%;
+    width:100px;
+    height:110px;
 }
